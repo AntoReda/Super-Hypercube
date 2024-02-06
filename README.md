@@ -1,5 +1,11 @@
 
-I added an instructional video on how to setup the application in case you are having issues getting it to work.
+This reposotory used Git LFS since it exceeded github's large file limit. 
+
+This means you will need to install and use Git LFS to pull and extract the contents of this repo correctly.
+
+In case you experience any issues, I added gameplay and an explanation in the form of 2 video files you can watch.I added an instructional video on how to setup the application in case you are having issues getting it to work.
+
+
 
 In case you don't want to watch the video, simply go to project>>VS2017>>Labs.sln
 
